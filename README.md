@@ -68,13 +68,22 @@ In this build, I used **Oracle VirtualBox** to design and configure a virtual PC
 
 ---
 
-📊 Presentation Deck
+## 📎 Additional Resources
+
+### 🎨 Week 6 – Virtual PC Build Presentation Deck
+
 You can view the full visual presentation of this project here:
 
-🎨 Live Presentation Deck (Week 6 – Virtual PC Build)
-https://team1dcc.my.canva.site/virtual-pc-build-week-6
+🔗 [Live Presentation Site on Canva](https://team1dcc.my.canva.site/virtual-pc-build-week-6)
 
-This slide deck outlines the project scope, component selection, build steps, performance evaluation, and reflections. It was created as a final deliverable to present technical understanding and communication skills as part of the Week 6 capstone assignment in the CompTIA Tech+ Career Readiness Cohort.
+This slide deck outlines:
+- The purpose and goals of the Virtual PC Build
+- The component selection process
+- Key configuration steps and operating system setup
+- Screenshots of installed software (LibreOffice, Scratch, Python 3)
+- Final reflections and technical outcomes
+
+This deck was created as a final deliverable to showcase communication and presentation skills alongside technical execution in the CompTIA Tech+ Career Readiness Cohort.
 
 ---
 
