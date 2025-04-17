@@ -68,6 +68,16 @@ In this build, I used **Oracle VirtualBox** to design and configure a virtual PC
 
 ---
 
+📊 Presentation Deck
+You can view the full visual presentation of this project here:
+
+🎨 Live Presentation Deck (Week 6 – Virtual PC Build)
+https://team1dcc.my.canva.site/virtual-pc-build-week-6
+
+This slide deck outlines the project scope, component selection, build steps, performance evaluation, and reflections. It was created as a final deliverable to present technical understanding and communication skills as part of the Week 6 capstone assignment in the CompTIA Tech+ Career Readiness Cohort.
+
+---
+
 ## 🔗 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/deonshaerobbins)
