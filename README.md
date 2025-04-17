@@ -11,26 +11,45 @@ In this build, I used **Oracle VirtualBox** to design and configure a virtual PC
 - Oracle VirtualBox
 - Ubuntu 20.04 LTS (ISO)
 - Guest Additions (for seamless VM experience)
-- Visual Studio Code (installed post-build)
+- Visual Studio Code
+- LibreOffice
+- Scratch
+- Python 3 (pre-installed + demoed)
 
 ---
 
-## 📸 Screenshots
+<h2 align="center">📸 Screenshots</h2>
 
-![VM Screenshot](screenshots/virtual-pc-screenshot.png)
+<p align="center">
+  <img src="screenshots/virtual-pc-screenshot.png" width="600"/><br/>
+  <em>Virtual PC Desktop (Ubuntu)</em>
+</p>
 
-> *More available in the `screenshots/` folder*
+<p align="center">
+  <img src="screenshots/libreoffice-demo.png.png" width="600"/><br/>
+  <em>LibreOffice Installed</em>
+</p>
+
+<p align="center">
+  <img src="screenshots/scratch-demo.png.png" width="600"/><br/>
+  <em>Scratch Installed</em>
+</p>
+
+<p align="center">
+  <img src="screenshots/python3-terminal.png.png" width="600"/><br/>
+  <em>Python 3 Environment</em>
+</p>
 
 ---
 
 ## 🧱 Build Steps
 
-1. Defined build purpose and requirements (general use + dev tools)
+1. Defined system purpose and performance goals (general use + dev tools)
 2. Selected and configured virtual hardware (CPU, RAM, Disk)
-3. Downloaded and installed Ubuntu 20.04 via ISO
-4. Configured OS settings and installed developer tools
+3. Downloaded Ubuntu 20.04 ISO and installed it on a VirtualBox VM
+4. Set up system tools (LibreOffice, Scratch, VS Code, Python 3)
 5. Evaluated performance using System Monitor
-6. Documented and recorded the full walkthrough
+6. Documented the full build process and created a video walkthrough
 
 ---
 
@@ -42,10 +61,10 @@ In this build, I used **Oracle VirtualBox** to design and configure a virtual PC
 
 ## 💡 Lessons Learned
 
-- Gained confidence using VirtualBox and configuring VMs
-- Practiced OS installation, system troubleshooting, and RAM/CPU allocation
-- Reinforced foundational IT skills applicable to real-world helpdesk roles
-- Learned the importance of documenting and presenting technical work
+- Built confidence using virtualization tools and configuring virtual hardware
+- Practiced system installation, optimization, and troubleshooting
+- Reinforced core IT support concepts through real-world simulation
+- Improved documentation and technical presentation skills
 
 ---
 
@@ -57,4 +76,4 @@ In this build, I used **Oracle VirtualBox** to design and configure a virtual PC
 
 ---
 
-> 🌱 **This is part of my public tech portfolio. Follow my journey as I grow into roles in IT Support, Cloud, and Cybersecurity.**
+> 🌱 **This is part of my public tech portfolio. Follow my journey into roles in IT Support, Cloud, and Cybersecurity.**
